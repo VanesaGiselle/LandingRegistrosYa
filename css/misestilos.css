@@ -1,0 +1,652 @@
+/*
+Tipografías
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+/*
+Menu
+*/
+
+.navbar-right {
+	margin-right:40px;
+}
+
+a.navbar-style{
+	color: white!important;
+	font-family:'Raleway', sans-serif;
+	font-weight: regular;
+	text-align: center;
+	border-radius: 5px;
+	margin: 4px;
+}
+
+.subheader {
+	background-color:#DE912F;
+	width:100%;
+	height:20px;
+	color: black;
+	font-size:12px;
+}
+
+.subheader-style {
+	height:20px;
+}
+
+.subheader-menu {
+	margin: 3px;
+}
+
+.glyphicon {
+	margin-right: 3px;
+}
+
+#myNavbar {
+	background-color: black;
+}
+
+.container-fluid {
+	background-color: black!important;
+}
+
+.navbar-brand {
+	margin:0;
+	padding:0;
+}
+
+.navbar-brand-img{
+	padding: 5px 0px 5px 30px;
+	width: 220px;
+	max-width: 100%;
+}
+
+.nav navbar-nav navbar-right, .navbar-collapse, .container-fluid{
+	width: 100%;
+	text-align: center;
+	background-color: white;
+}
+
+.navbar{
+	margin: 0px;
+	height:78px;
+	-webkit-box-shadow: 0px 0px 20px #999999;
+	-moz-box-shadow: 0px 0px 20px #999999;
+	box-shadow: 0px 0px 20px #999999;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	background-color: #DE912F;
+	font-weight: bold;
+	-webkit-transition: all 1s;
+    transition: all 1s;
+}
+
+
+
+/*
+:link - no clickeada
+:visited - ya visitada
+:active - cuando hago click
+:focus - 
+*/
+
+/*
+Body
+*/
+
+body{
+	font-family:'Raleway', sans-serif!important;
+}
+
+.text-bold {
+	font-weight: bold;
+}
+.text-back {
+	font-weight: bold;
+}
+.text-italic {
+	font-weight: italic;
+}
+
+#home {
+	text-align: center;
+}
+
+.home-principal{
+	margin-top: -304px;
+}
+
+h1 {
+	margin-top:10px;
+	margin-bottom:0;
+}
+
+.content-h1 {
+	color: white;
+	background-color: #DE912F;
+	z-index: 10;
+}
+
+.content-orange{
+	padding: 5px;
+	z-index: 10;
+}
+
+.subtitle {
+	font-size: 18px;
+	z-index: 10;
+}
+
+.img-principal {
+	padding-top:78px;
+	width: 100%;
+	background-image: url("../imgs/img-principal.jpg");
+	background-size: cover;
+	height:700px;
+}
+
+.home-text {
+	color: white;
+	background-color: rgba(0,0,0,.65);
+	font-size: 18px;
+	padding-left: 300px;
+	padding-right: 300px;
+	padding-bottom: 30px;
+	padding-top: 50px;
+	z-index: 10;
+}
+
+#registros {
+	padding-top: 78px;
+}
+
+.row {
+	margin-right: 0;
+    margin-left: 0;
+}
+
+.img-phase{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.title-phase{
+	font-weight: bold;
+	color: #DE912F;
+	
+}
+
+.text-phase {
+	border-top: 1px solid #B3B3B3;
+	font-size:17px;
+	color:#333333;
+	padding-top: 15px;
+}
+
+.text-phase2 {
+	font-size:17px;
+	color:#333333;
+}
+
+.text-phase-bold {
+	font-size:17px;
+	color:#333333;
+	padding-bottom: 50px;
+}
+
+.panel {
+	border: 0px!important;
+}
+
+.panel-heading {
+	background-color: #000000!important;
+	position:relative;
+	border-radius: 0;
+}
+
+.panel-heading:hover {
+	background-color: #DE912F!important;
+}
+
+.panel-heading a:after {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    line-height: 1;
+    margin-top: -7px;
+}
+
+.panel-title {
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+}
+
+.panel-title-style{
+	display: block;
+	width:100%;
+}
+
+.panel-title-style:hover {
+	text-decoration:none;
+}
+
+.panel-title-style:focus {
+	text-decoration:none;
+}
+
+.panel-body {
+	padding: 30px;
+}
+
+.brand {
+	padding:0;
+}
+
+.registro-marca {
+	padding: 10px;
+	background-color: #DE912F;
+	border-radius: 7px;
+}
+
+.marca {
+	float: left;
+	padding-right: 20px;
+	padding-top: 30px;
+}
+
+.preg-marca {
+	font-weight: bold;
+	color: white;
+}
+
+.text-marca {
+	color: white;
+	font-size: 17px;
+}
+
+.column-preg {
+	padding-left:50px;
+	padding-right:20px;
+	padding-bottom:40px;
+}
+
+.title-marca-preg{
+	font-weight: bold;
+	color: #DE912F;
+}
+
+.title-marca-preg-1 {
+	font-weight: bold;
+	color: #DE912F;
+	margin-top: 0;
+}
+
+.text-marca-preg-2 {
+	font-size: 16px;
+}
+
+.world {
+	background-color:rgba(222,145,47,.2);
+}
+
+.column-world {
+	margin:0;
+	padding:0;
+}
+
+.column-world2 {
+	padding-top: 30px;
+    padding-left: 30px;
+}
+
+.img-world {
+	background-color: #DE912F;
+	text-align:center;
+}
+
+.text-world {
+	font-size: 18px;
+}
+
+.industrial {
+	float: left;
+	padding-top: 25px;
+	padding-right: 30px;
+	padding-bottom: 25px;
+}
+
+.column-industrial {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.item {
+	padding: 5px;
+	font-size: 17px;
+	font-weight: bold;
+	background-color: rgba(222,145,47,.2);
+	border-left: 30px solid #DE912F;	
+	border-right: 5px solid #DE912F;
+}
+
+.depositos-collapse{
+	text-align: center;
+}
+
+.depositos {
+	padding: 20px;
+}
+
+.title-deposito {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.depositos-type {
+	margin: 0;
+	padding-bottom: 20px;
+}
+
+.contactenos {
+	text-align:center;
+	padding: 30px;
+}
+
+#nosotros {
+	background-image: url("../imgs/img-institucional.jpg");
+	background-size: cover;
+	padding-top: 78px;
+	text-align: center;
+}
+
+.nosotros-text {
+	color: white;
+	font-size: 17px;
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+.nosotros-text-phase{
+	color: white;
+	font-size: 20px;
+	padding-bottom: 100px;
+	margin:0;
+}
+
+
+#contacto {
+	color: black;
+	padding-top: 78px;
+}
+
+.container-contact{
+	background-color: white;
+}
+
+.contacto-title{
+	text-align:center;
+	font-size: 40px;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom:20px;
+	margin: 0;
+}
+
+.info-contact {
+	padding-top: 50px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 17px;
+}
+
+.contacto-info  {
+	margin-top:20px;
+	display:block;
+	background-color: rgba(255,255,255,0.2);
+	width:100%;
+	border-radius:3px;
+	padding-top: 5px;	
+	padding-bottom: 5px;
+	padding-left: 15px;
+}
+
+.contacto-icon {
+	margin-right:10px;
+}
+
+label {
+	margin-right: 30px;
+}
+.form-group{
+	margin: 0px!important;
+}
+
+.formulario {
+	padding-top: 30px;
+	padding-bottom: 50px;
+	padding-right: 50px;
+	padding-left: 30px;
+	font-size: 17px;
+}
+
+.contact-form{
+	background-color: #DE912F;
+}
+
+.select-archivo {
+	font-family: font-family:'Raleway', sans-serif;
+	color: white;
+	background-color: #FBB03B;
+	padding:7px 20px 7px 20px;
+}
+
+.btn-enviar {
+	border: 0;
+	color: white;
+	background-color: #FBB03B;
+	padding:7px 20px 7px 20px;
+}
+
+.btn-enviar:hover {
+	color: white;
+	background-color: black;
+	font-weight: bold;
+}
+
+footer{
+	text-align:center;
+	padding:10px;
+	background-color: #E6E6E6;
+	color: #000000;
+	width:100%;
+	font-size: 18px;
+}
+
+
+/*ESTILO DE BOTON DE IR ARRIBA*/
+
+.boton-top {
+	display:none;
+	padding:10px;
+	background:#024959;
+	font-size:10px;
+	color:#fff;
+	cursor:pointer;
+	position: fixed;
+	bottom:10px;
+	right:20px;
+	z-index: 10000000;
+	opacity: 0.7;
+}
+
+i.i-boton-top {
+	font-size:30px;color:white;
+}
+
+
+/*MEDIA QUERY RESPONSIVE MOBILE*/
+
+
+@media only screen and (min-width: 304px) and (max-width: 319px) {
+	
+	nav.navbar-fixed-top {
+		height: 50px;
+	}
+	nav.subheader {
+		display: none;
+	}
+	#myCarousel {
+		padding-top:50px;
+	}
+	#servicios {
+		padding-top: 30px;
+	}	
+	.text-image-app {
+		text-align: center;
+	}
+	.apple {
+		width: 30px;
+		padding-top: 20px;
+		margin: 0;
+	}
+	.app-mobile-text {
+		text-align: center;
+		font-size: 15px;
+		margin:0;
+	}
+	.btn-contacto{
+		margin-left: 117px;
+		margin-top: 70px;
+		font-size: 13px;
+		padding: 5px;
+	}
+	#nosotros{
+		padding-top: 50px;
+	}	
+	#preguntas-frecuentes{
+		padding-top: 50px;
+	}	
+	#contacto{
+		padding-top: 50px;
+	}
+	.nosotros-img {
+		width:95%;
+	}
+	
+}
+
+/*MOBILE SALVO IPAD*/
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+	
+	nav.navbar-fixed-top {
+		height: 50px;
+	}
+	nav.subheader {
+		display: none;
+	}
+	#myCarousel {
+		padding-top:50px;
+	}
+	#servicios {
+		padding-top: 30px;
+	}	
+	.text-image-app {
+		text-align: center;
+	}
+	.apple {
+		width: 30px;
+		padding-top: 20px;
+		margin: 0;
+	}
+	.app-mobile-text {
+		text-align: center;
+		font-size: 15px;
+		margin:0;
+	}
+	.btn-contacto{
+		margin-left: 145px;
+		margin-top: 80px;
+	}
+	#nosotros{
+	padding-top: 50px;
+	}	
+	#preguntas-frecuentes{
+	padding-top: 50px;
+	}	
+	#contacto{
+	padding-top: 50px;
+	}
+	.nosotros-img {
+		width:95%;
+	}
+	
+}
+
+
+/*IPAD*/
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+	
+	nav.navbar-fixed-top {
+		height: 50px;
+	}
+	nav.subheader {
+		display: none;
+	}
+	#myCarousel {
+		padding-top:50px;
+	}
+	#servicios {
+	padding-top: 30px;
+	}
+	.text-image-app {
+		text-align: center;
+	}
+	.apple {
+		width: 30px;
+		padding-top: 20px;
+		margin: 0;
+	}
+	.app-mobile-text {
+		text-align: center;
+		font-size: 15px;
+		margin:0;
+	}
+	.btn-contacto{
+		margin-left: 175px;
+	}
+	#nosotros{
+	padding-top: 50px;
+	}	
+	#preguntas-frecuentes{
+	padding-top: 50px;
+	}	
+	#contacto{
+	padding-top: 50px;
+	}
+	.nosotros-img {
+		width:95%;
+	}
+}
+
+@media only screen and (max-width: 767px) and (min-width: 320px){
+.btn-contacto {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+	.btn-contacto {
+		margin-left: 200px;
+	}
+}
+
+@media only screen and (min-width: 1023px) and (max-width: 1366px) {
+	
+
+
+}	
+
+

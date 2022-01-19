@@ -1,0 +1,144 @@
+TIPOGRAFÍA
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900italic,900,800italic,800,700italic,700,600italic,600,500italic,500,400italic,300italic,300,200italic,200,100italic,100);
+font-family: 'Raleway', sans-serif;
+
+CROMATISMO
+Negro: #000000
+Naranja: #DE912F
+Negro con opacidad al 70%: opacity:0.7 o rgba(0,0,0,0.7)
+Facebook-a href: #425F9C
+Blanco: #FFFFFF
+Textos en fondo blanco: #1A1A1A
+Negro con opacidad al 70%: opacity:0.7 o rgba(0,0,0,0.7)
+Contacto-fondo tel/mail/ubicación: Blanco con opacidad al 20%: opacity:0.2 o rgba(255,255,255,0.2)
+Footer: #E6E6E6
+
+TEXTOS
+
+Nav:
+info@registrosya.com
+Home
+Registros
+Institucional
+Contacto
+
+Home
+
+¡HACÉ TU REGISTRO YA!
+
+Contáctenos desde el Interior del País o donde se encuentre
+
+Registramos sus MARCAS – PATENTES – MODELOS –
+en Argentina y en el Exterior
+
+Hacer valer su derecho de autor también es nuestra tarea 
+
+Registramos SOFTWARES - APPS - PÁGINAS WEBS -
+OBRAS MUSICALES - LITERARIAS - PROGRAMAS DE TELEVISIÓN
+CUADROS - REVISTAS - OBRAS DE TEATRO
+
+Conexión con Facebook
+
+PARA TENER EN CUENTA
+
+Cuando creamos un producto, brindamos un servicio o desarrollamos cualquier actividad original, inédita, sumamente útil, que posee características novedosas ante los ojos de los demás, nos volvemos atractivos y corremos un riesgo, alguien puede apropiarse de nuestra creación.
+
+Nuestro compromiso es asesorarlo respetando la confidencialidad de su proyecto, y realizar los diversos registros para que usted esté protegido.
+
+El registro le otorga derechos sobre su obra y la oportunidad de comercializar, licenciar, vender o difundir tranquilo.
+
+CUADROS- REVISTAS- OBRAS DE TEATRO
+
+
+Registros
+
+REGISTRO DE MARCAS
+
+REGISTRO DE PATENTES y/o MODELOS DE UTILIDAD
+
+REGISTRO DE MODELOS O DISEÑOS INDUSTRIALES
+
+DEPÓSITOS EN DERECHO DE AUTOR 
+
+
+REGISTRO DE MARCAS
+¿Qué es una marca?
+Es el signo que distingue un producto o servicio de otro. La marca juega un papel indispensable dentro de la competencia comercial.
+
+¿Por qué registrar mi marca?
+Es la única manera de obtener protección legal y evitar que otra persona la utilice, puede otorgar licencias, transferirla o venderla. Le brinda un lugar en el mercado, para que su negocio crezca.
+
+¿Cuánto tarda el trámite de Registro?
+Desde el momento que se inicia la solicitud hasta el momento que se concede el título de marca, tarda aproximadamente 18 meses.
+
+Realizamos la búsqueda de antecedentes de Marcas en Argentina GRATIS.
+Les brindamos asesoramiento profesional para contestación de vistas y negociación de Oposiciones.
+Realizamos registros en el país del mundo que usted lo necesite CONSÚLTENOS.
+
+
+REGISTRO DE PATENTES y/o MODELOS DE UTILIDAD
+¿Por qué registrar mi Patente o Modelo de Utilidad?
+Le brinda el derecho de exclusividad sobre el invento, permitiéndote accionar sobre terceros que sin su consentimiento realicen ofertas de venta, fabricación, uso o procedimiento patentado.
+
+¿Cómo registro mi Patente o Modelo de Utilidad?
+Si bien no es un procedimiento simple, nuestros profesionales lo asistirán para que su Invención tenga el resguardo adecuado y usted se beneficie, pudiendo explotar su Patente o Modelo de Utilidad, u otorgar licencias para terceros, cobrando las regalías pertinentes.
+
+
+REGISTRO DE MODELOS O DISEÑOS INDUSTRIALES
+¿Qué es un Modelo o Diseño Industrial? 
+Comprenden los aspectos estéticos de un producto. Esto le añade valor agregado, haciéndolos más atractivos al consumidor y pudiendo tornarse en el motivo principal de compra del cliente.
+
+¿Por qué registrar mi Modelo o Diseño Industrial? 
+El procedimiento de registración le otorga el derecho de impedir que terceras personas reproduzcan o imiten los modelos o diseños registrados sin su autorización.
+
+¿Qué requisitos debe cumplir para el registro?
+1- Novedad / Originalidad
+2- Aplicación Industrial
+
+
+DEPÓSITOS EN DERECHO DE AUTOR 
+(Softwares - Aplicaciones - Páginas Webs)
+
+Depósitos de Obras Musicales
+
+Programas de Televisión
+
+Cuadros
+
+Depósitos de Obras Literarias
+
+Revistas
+
+Obras de teatro 
+
+Contáctenos y le enviaremos la cotización del trámite que necesite
+
+
+Institucional
+
+Desde el año 2005, nuestros clientes nos confían sus registros, porque les brindamos celeridad, un ámbito confidencial, cordial y de tranquilidad para generar sus proyectos.
+RegistrosYa es un consultor online que asesora y realiza diversos registros y depósitos, referidos a la Propiedad Industrial e Intelectual, avocados a la protección de los intereses y derechos de las empresas, comercios y personas.
+Registrar es proteger lo propio, es la manera de demostrar autoría o derecho y defenderse de terceros que pretendan plagiar su obra, sea cual fuere.
+¡Cada uno de nuestros clientes, es importante para nosotros!  
+
+
+Contacto
+Consulte si es posible registrar su invención, ingrese cuál es el trámite que necesita y lo asesoraremos a la brevedad gratuitamente. 
++54 (011) 4700-0456
+info@registrosya.com
+Nuestras oficinas están en Zona Norte
+
+Form:
+Nombre
+Mail
+Teléfono
+Mensaje
+
+Adjuntar archivos
+ENVIAR
+
+Footer:
+RegistrosYa © 2016
+
+
+
